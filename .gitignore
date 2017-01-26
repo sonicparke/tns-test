@@ -22,6 +22,18 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# nativescript
+nativescript/app
+nativescript/src/app
+nativescript/hooks
+nativescript/node_modules
+nativescript/platforms
+nativescript/**/*.js
+nativescript/**/*.js.map
+nativescript/*.d.ts
+!nativescript/references.d.ts
+!nativescript/app/App_Resources
+
 # misc
 /.sass-cache
 /connect.lock
@@ -38,3 +50,7 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+
+nativescript/app/app
+nativescript/app/node_modules
+nativescript/app/platforms
