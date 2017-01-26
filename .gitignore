@@ -54,3 +54,5 @@ Thumbs.db
 nativescript/app/app
 nativescript/app/node_modules
 nativescript/app/platforms
+src/*.js
+src/*.map
